@@ -41,3 +41,5 @@ ORDER BY request.block_time DESC
 
 Connected Dune analytics dashboard is on the following link.
 https://dune.com/stuparm/chainlink-vrf-transactions
+
+<iframe src="https://dune.com/embeds/4056744/6830488/2d11cc9a-9de8-4305-86f3-cc1a70eddd9e"/>
